@@ -1,1 +1,1 @@
-<a href="good.html">click</a>
+<a href="home.html">click</a>
