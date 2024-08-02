@@ -1,0 +1,111 @@
+.div11{
+          color: black;
+          padding-left: 5px;
+          font-size: 20px;
+  
+        }
+.mbtn{
+    padding: 5px 10px;
+}
+.mnavbar2{
+    display: flex;
+   
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      padding: 0px 10px;
+}
+.mdiv1{
+    padding: 0px 2px;
+}
+.mbutton{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 17px 17px;
+  }
+  .mp3{
+    font-size: medium;
+    color: rgb(194, 194, 171);
+  }
+  .mbtn3 {
+    background-color: green;
+    border: none;
+color: white;
+padding: 6px 25px;
+  }
+  .mdiv9{
+    border: 2px solid none;
+    padding: 5px 3px;
+    
+    border-radius: 10px;
+   }
+   .sec{
+    
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    width: 100%;
+    background:url('help.jpg')no-repeat;
+  background-position: center;
+  background-size:cover;
+  color: white;
+    }
+    .mdiv200{
+        backdrop-filter: none;
+        padding: none;
+        
+    }
+    .mdivabout{
+        background-color: rgb(69, 155, 69);
+        color: white;
+        padding: 50px;
+        padding-left: 40px;
+        text-align: left;
+      }
+      .minput{
+        background: transparent;
+        color: white;
+        border: 2px solid white;
+        padding: 7px 10px;
+        border-radius: 20px;
+       }
+       .minput2{
+        background: transparent;
+        color: white;
+        border: 2px solid white;
+        padding: 15px 100px;
+        padding-bottom: 60px;
+        border-radius: 20px;
+       }
+       .mdiv100{
+        background-color: rgb(53, 175, 53);
+        color: white;
+        width: 350px;
+        height: 200px;
+        padding: 20px 20px ;
+        text-align: center;
+      }
+      .mdiv300{
+        background-color: rgb(224, 81, 81);
+        color: white;
+        width: 350px;
+        height: 200px;
+        padding: 20px 20px ;
+        text-align: center;
+      }
+      .mdiv400{
+        background-color: rgb(235, 235, 69);
+        color: white;
+        width: 350px;
+        height: 200px;
+        padding: 20px 20px ;
+        text-align: center;
+      }
+      .mbuttom{
+        background-color: black;
+        color: white;
+        padding: 30px 20px;
+      }
