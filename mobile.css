@@ -109,3 +109,8 @@ padding: 6px 25px;
         color: white;
         padding: 30px 20px;
       }
+ .minput1{
+        padding: 10px 100px;
+        border-radius: 0px;
+        border: 2px solid black;
+      }
